@@ -30,3 +30,11 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16;
     color: aquamarine;
 }
+
+/* footer */
+
+.link--copyright {
+    font-size: 21;
+    color: grey;
+    text-align: right;
+}
